@@ -26,6 +26,7 @@ FIRST Download
 Admin
 user: admin@admin.com	
 pass: admin123
+MD
 
 for the server download node js run it on the terminal as node index.js
 
